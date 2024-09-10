@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/416368571_906095227681180_9098143267016132972_n.png</file>
+        <file>img/padlock.png</file>
+        <file>img/user_747376.png</file>
+        <file>img/loupe.png</file>
+        <file>img/pen.png</file>
+        <file>img/plus.png</file>
+        <file>img/qr.png</file>
+        <file>img/refresh.png</file>
+        <file>img/search.png</file>
+        <file>img/subscription.png</file>
+        <file>img/users-avatar.png</file>
+        <file>img/load.png</file>
+        <file>img/R.jfif</file>
+        <file>img/R (1).jfif</file>
+        <file>img/delete_10257834.png</file>
+        <file>img/google-plus_9723940.png</file>
+        <file>img/stop-sign_4765773.png</file>
+        <file>img/6140334.png</file>
+        <file>img/6449076.png</file>
+        <file>img/qz.jfif</file>
+        <file>img/3597075.png</file>
+    </qresource>
+</RCC>

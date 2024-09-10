@@ -1,0 +1,16 @@
+INPUT(
+./debug\cond.o
+./debug\connection.o
+./debug\main.o
+./debug\offres.o
+./debug\pagecond.o
+./debug\pageoffres.o
+./debug\qrcode.o
+./debug\qrcodegeneratordemo.o
+./debug\qrcodegeneratorworker.o
+./debug\qrwidget.o
+./debug\qrc_Resources.o
+./debug\moc_pagecond.o
+./debug\moc_pageoffres.o
+./debug\moc_qrwidget.o
+);
